@@ -6,6 +6,20 @@
 
 A skill for AI coding agents (e.g. Claude Code): once the user grants full autonomy, carry a previously discussed plan through end to end. Get a rough but complete version working first, then improve it loop by loop through periodic reviews.
 
+## 缘起 / Why
+
+> 如果这个世界上真的有魔法的话，那一定是 AI。
+>
+> 写代码就像在施魔法，只是上一代的魔法咒语太过晦涩，练习难度过高。Vibe Coding 的人就像魔法师一样，念几句咒语，你的愿望就实现了。
+>
+> Opus 5.5 的水平已经到了你可以给它许愿的水平了，shit-loop 就是我总结的**许愿方法论**。这是我最近写过的最好用的 Skill，开源出来。
+
+> If magic really exists in this world, it must be AI.
+>
+> Writing code has always been a kind of spellcasting — the spells of the previous generation were just too arcane and too hard to master. With vibe coding, you are the wizard: say a few words, and your wish comes true.
+>
+> Opus 5.5 is now good enough that you can simply make a wish. shit-loop is my **methodology for making wishes** — the most useful skill I have written lately, now open source.
+
 ## 核心思想 / Core ideas
 
 - **先通后优**：第一目标是端到端跑通，不是一次做到最好。
