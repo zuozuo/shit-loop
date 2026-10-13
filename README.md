@@ -12,13 +12,13 @@ A skill for AI coding agents (e.g. Claude Code): once the user grants full auton
 >
 > 写代码就像在施魔法，只是上一代的魔法咒语太过晦涩，练习难度过高。Vibe Coding 的人就像魔法师一样，念几句咒语，你的愿望就实现了。
 >
-> Opus 5.5 的水平已经到了你可以给它许愿的水平了，shit-loop 就是我总结的**许愿方法论**。这是我最近写过的最好用的 Skill，开源出来。
+> Opus 5.5 的水平已经到了你可以给它许愿的水平了，shit-loop 就是我总结的**许愿方法论**：**定目标和边界，然后彻底放手，充分授权。** 这是我最近写过的最好用的 Skill，开源出来。
 
 > If magic really exists in this world, it must be AI.
 >
 > Writing code has always been a kind of spellcasting — the spells of the previous generation were just too arcane and too hard to master. With vibe coding, you are the wizard: say a few words, and your wish comes true.
 >
-> Opus 5.5 is now good enough that you can simply make a wish. shit-loop is my **methodology for making wishes** — the most useful skill I have written lately, now open source.
+> Opus 5.5 is now good enough that you can simply make a wish. shit-loop is my **methodology for making wishes**: **set the goal and the boundaries, then let go completely and grant full authority.** It is the most useful skill I have written lately, now open source.
 
 ## 核心思想 / Core ideas
 
